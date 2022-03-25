@@ -1,4 +1,9 @@
-#include "mainwindow.h"
+/*
+ Version:1.0
+ Goal:Communicate with server with socket.
+ Date:25/03/22
+ by:Paul_SNL
+*/#include "mainwindow.h"
 
 #include <QApplication>
 
